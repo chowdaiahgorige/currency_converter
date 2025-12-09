@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { currencyConverter } from "./Api/postApi.jsc";
+import { currencyConverter } from "./api/postApi.js";
 
 
 /* eslint-disable react/no-unknown-property */
